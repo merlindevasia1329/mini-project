@@ -1,0 +1,2 @@
+# mini-project
+STUDENT MARK ANALYZER
